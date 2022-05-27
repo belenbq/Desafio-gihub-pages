@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-color: dimgrey;
+}
+
+h1{
+    color: #ffff;
+}
+
+hr{
+    margin-left: 25%;
+    border-top: 3px solid #ffff;
+}
